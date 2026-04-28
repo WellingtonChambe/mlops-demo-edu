@@ -1,4 +1,4 @@
-# Getting Started with Pythonhgghhg
+# Getting Started with Pythonhg
 
 This baseline project shows how to get the most out of [Python](http://ipython.org)
 on Cloudera Data Science Workbench.
